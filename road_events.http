@@ -1,0 +1,6 @@
+@road_events_HostAddress = http://localhost:5062
+
+GET {{road_events_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
