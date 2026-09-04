@@ -38,6 +38,15 @@ This Sports Events Management System provides a full-featured backend API for:
 | 🛡️ Input Validation | FluentValidation / Data Annotations on all DTOs |
 | 🧪 Unit & Integration Tests | xUnit test coverage for core services |
 
+## Getting Started
+
+### Prerequisites
+
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download) or later
+- [SQL Server](https://www.microsoft.com/en-us/sql-server) or [PostgreSQL](https://www.postgresql.org/)
+- [Git](https://git-scm.com/)
+- (Optional) [Docker](https://www.docker.com/) for containerized deployment
+
 ## License
 
 This project is licensed under the **MIT License**.
