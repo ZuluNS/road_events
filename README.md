@@ -9,6 +9,20 @@ This Sports Events Management System provides a full-featured backend API for:
 - **Categories** — Organize events into hierarchical sport categories.
 - **Organizers** — Dedicated profiles for event organizers with dashboard analytics.
 - **Results & Leaderboards** — Record and publish event results with global leaderboard support.
+
+- ## Tech Stack
+
+| Layer | Technology |
+| --- | --- |
+| **Framework** | ASP.NET Core 8.0+ |
+| **Language** | C# 12 |
+| **ORM** | Entity Framework Core |
+| **Database** | SQL Server / PostgreSQL |
+| **Authentication** | ASP.NET Core Identity + JWT Bearer |
+| **Documentation** | Swagger / OpenAPI |
+| **Testing** | xUnit, Moq, FluentAssertions |
+| **Logging** | Serilog |
+| **Mapping** | AutoMapper |
 - 
 ## Features
 
