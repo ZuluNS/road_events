@@ -39,6 +39,20 @@ ERD AND SQL
 
 Role checks are enforced via `[Authorize(Roles = "...")]` attributes on controllers and actions.
 
+## Environment Variables
+
+Create a `.env` file or set the following environment variables:
+
+| Variable | Description | Example |
+| --- | --- | --- |
+| `ASPNETCORE_ENVIRONMENT` | Runtime environment | `Development` |
+| `ConnectionStrings__DefaultConnection` | Database connection string | `Server=...` |
+| `JwtSettings__Secret` | JWT signing secret | `your-secret-key` |
+| `JwtSettings__Issuer` | Token issuer | `SportsEventsApi` |
+| `JwtSettings__Audience` | Token audience | `SportsEventsClient` |
+| `EmailSettings__SmtpServer` | SMTP server for notifications | `smtp.gmail.com` |
+| `EmailSettings__FromAddress` | Sender email address | `noreply@sportsevents.com` |
+
 - 
 ## Features
 
