@@ -9,3 +9,17 @@ This Sports Events Management System provides a full-featured backend API for:
 - **Categories** — Organize events into hierarchical sport categories.
 - **Organizers** — Dedicated profiles for event organizers with dashboard analytics.
 - **Results & Leaderboards** — Record and publish event results with global leaderboard support.
+- 
+## Features
+
+| Feature | Description |
+| --- | --- |
+| 🔐 JWT Authentication | Secure token-based auth with refresh token rotation |
+| 👥 Role-Based Access | Public, Athlete, Organizer, and Admin roles |
+| 📅 Event Scheduling | Full CRUD for events with date ranges and registration deadlines |
+| 🏷️ Category System | Hierarchical sport categories |
+| 📝 Enrolment Workflow | Multi-status enrolment with approval and check-in |
+| 📊 Results & Rankings | Result recording with leaderboard aggregation |
+| 📄 Pagination & Filtering | Consistent pagination and query filtering across endpoints |
+| 🛡️ Input Validation | FluentValidation / Data Annotations on all DTOs |
+| 🧪 Unit & Integration Tests | xUnit test coverage for core services |
