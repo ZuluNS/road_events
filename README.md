@@ -9,6 +9,25 @@ This Sports Events Management System provides a full-featured backend API for:
 - **Categories** — Organize events into hierarchical sport categories.
 - **Organizers** — Dedicated profiles for event organizers with dashboard analytics.
 - **Results & Leaderboards** — Record and publish event results with global leaderboard support.
+- ## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Database Setup](#database-setup)
+- [Running the Application](#running-the-application)
+- [Project Structure](#project-structure)
+- [API Documentation](#api-documentation)
+- [Authentication & Authorization](#authentication--authorization)
+- [Role-Based Access Control](#role-based-access-control)
+- [Environment Variables](#environment-variables)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 - ## Tech Stack
 
