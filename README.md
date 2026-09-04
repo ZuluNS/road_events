@@ -9,6 +9,11 @@ This Sports Events Management System provides a full-featured backend API for:
 - **Categories** — Organize events into hierarchical sport categories.
 - **Organizers** — Dedicated profiles for event organizers with dashboard analytics.
 - **Results & Leaderboards** — Record and publish event results with global leaderboard support.
+
+- ## Project Plan Fles
+ERD AND SQL
+[Prog_poe1.pdf](https://github.com/user-attachments/files/31848653/Prog_poe1.pdf)
+
 - ## Table of Contents
 
 - [Overview](#overview)
@@ -42,10 +47,6 @@ This Sports Events Management System provides a full-featured backend API for:
 | **Testing** | xUnit, Moq, FluentAssertions |
 | **Logging** | Serilog |
 | **Mapping** | AutoMapper |
-
-## Project Plan Fles
-ERD AND SQL
-[Prog_poe1.pdf](https://github.com/user-attachments/files/31848653/Prog_poe1.pdf)
 
 ## Role-Based Access Control
 
