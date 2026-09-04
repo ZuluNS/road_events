@@ -28,6 +28,17 @@ This Sports Events Management System provides a full-featured backend API for:
 ERD AND SQL
 [Prog_poe1.pdf](https://github.com/user-attachments/files/31848653/Prog_poe1.pdf)
 
+## Role-Based Access Control
+
+| Role | Permissions |
+| --- | --- |
+| **Public** | View events, categories, organizers, published results |
+| **Athlete** | Enrol in events, manage own profile, view own enrolments |
+| **Organizer** | Create/manage own events, manage enrolments for own events, submit results, view organizer dashboard |
+| **Admin** | Full system access — manage users, all events, all enrolments, categories, organizers, and results |
+
+Role checks are enforced via `[Authorize(Roles = "...")]` attributes on controllers and actions.
+
 - 
 ## Features
 
