@@ -23,3 +23,15 @@ This Sports Events Management System provides a full-featured backend API for:
 | 📄 Pagination & Filtering | Consistent pagination and query filtering across endpoints |
 | 🛡️ Input Validation | FluentValidation / Data Annotations on all DTOs |
 | 🧪 Unit & Integration Tests | xUnit test coverage for core services |
+
+## License
+
+This project is licensed under the **MIT License**.
+
+See [LICENSE](LICENSE) for details.
+
+---
+
+## Support
+
+For questions, issues, or feature requests, please open an issue on GitHub or contact the development team.
