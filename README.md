@@ -15,7 +15,6 @@ ERD AND SQL
 [Prog_poe1.pdf](https://github.com/user-attachments/files/31848653/Prog_poe1.pdf)
 
 - ## Table of Contents
-
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
