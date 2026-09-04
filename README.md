@@ -18,7 +18,6 @@ ERD AND SQL
 
 
 
-
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
