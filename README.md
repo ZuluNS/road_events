@@ -39,6 +39,19 @@ This Sports Events Management System provides a full-featured backend API for:
 | 🧪 Unit & Integration Tests | xUnit test coverage for core services |
 
 ## Getting Started
+## API Documentation
+
+The API is organized into the following functional modules:
+
+| Module | Base Route | Description |
+| --- | --- | --- |
+| Authentication | `/api/auth` | Login, register, refresh tokens, password reset |
+| User Profiles | `/api/users` | Profile management and role assignment |
+| Events | `/api/events` | Event CRUD, filtering, and upcoming events |
+| Categories | `/api/categories` | Sport category management |
+| Enrolments | `/api/enrolments` | Event registration and status management |
+| Organizers | `/api/organizers` | Organizer profiles and dashboards |
+| Results | `/api/results` | Result submission and leaderboards |
 
 ### Prerequisites
 
