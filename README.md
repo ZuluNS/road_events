@@ -23,6 +23,11 @@ This Sports Events Management System provides a full-featured backend API for:
 | **Testing** | xUnit, Moq, FluentAssertions |
 | **Logging** | Serilog |
 | **Mapping** | AutoMapper |
+
+## Project Plan Fles
+ERD AND SQL
+[Prog_poe1.pdf](https://github.com/user-attachments/files/31848653/Prog_poe1.pdf)
+
 - 
 ## Features
 
